@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/HTML-CSS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)![](https://img.shields.io/badge/Javascript-Jquery-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)![](https://img.shields.io/badge/PHP-MySQL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)![](https://img.shields.io/badge/React_JS-MERN-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
-![](https://img.shields.io/badge/HTML-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=#1C3052&color=#de3d3b)
+![](https://img.shields.io/badge/HTML-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=blue&color=red)
 
 
 
