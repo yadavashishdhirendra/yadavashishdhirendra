@@ -11,16 +11,16 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [![LinkedIn][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://img-premium.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1633373891~hmac=6040f98b6d3d17f1e591d88ee6276d17 width="3%" (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://www.linkedin.com/in/ashish-dhirendra-yadav-599a531a4/_
 [2]: https://www.linkedin.com/in/heinz-martin/
 
 
