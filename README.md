@@ -2,7 +2,8 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Ashish Here UI/UX Executive
 
-![](https://img.shields.io/badge/HTML-CSS-Javascript-Jquery-PHP-MySQL-ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=#1C3052&color=#de3d3b)
+![](https://img.shields.io/badge/HTML-MERN STACK-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 
